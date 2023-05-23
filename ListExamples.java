@@ -45,6 +45,5 @@ class ListExamples {
     }
     return result;
   }
-//This is a test
 
 }
